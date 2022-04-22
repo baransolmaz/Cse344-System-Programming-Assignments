@@ -1,0 +1,106 @@
+Fri Apr 22 10:37:52 2022
+ Server Y (logFile, p = 2, t= 1) started. ID: 15370
+Fri Apr 22 10:37:52 2022
+ Instantiated Server Z.
+Fri Apr 22 10:37:52 2022
+ Z: Server Z (logFile, p = 2, t= 1) started. ID: 15371
+Fri Apr 22 10:37:56 2022
+ Worker PID#15372 is handling Client PID#15422, matrix size 5x5, pool busy 1 / 2
+Fri Apr 22 10:37:56 2022
+ Worker PID#15373 is handling Client PID#15423, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:37:56 2022
+ Forwarding request of Client PID#15426 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:37:56 2022
+ Forwarding request of Client PID#15425 to ServerZ, matrix size 5x5, pool busy 2 / 2
+Fri Apr 22 10:37:56 2022
+ Forwarding request of Client PID#15424 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:37:56 2022
+ Forwarding request of Client PID#15427 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:37:56 2022
+ Z: Worker PID#15374 is handling Client PID#15426, matrix size 3x3, pool busy 1 / 2
+Fri Apr 22 10:37:56 2022
+ Z: Worker PID#15375 is handling Client PID#15425, matrix size 5x5, pool busy 2 / 2
+Fri Apr 22 10:37:57 2022
+ Z: Worker PID#15374 responding to Client PID#15426 : the matrix IS invertible.
+Fri Apr 22 10:37:57 2022
+ Z: Worker PID#15374 is handling Client PID#15424, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:37:57 2022
+ Z: Worker PID#15375 responding to Client PID#15425 : the matrix IS invertible.
+Fri Apr 22 10:37:57 2022
+ Worker PID#15373 responding to Client PID#15423 : the matrix IS invertible.
+Fri Apr 22 10:37:57 2022
+ Z: Worker PID#15375 is handling Client PID#15427, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:37:57 2022
+ Worker PID#15372 responding to Client PID#15422 : the matrix IS invertible.
+Fri Apr 22 10:37:58 2022
+ Z: Worker PID#15374 responding to Client PID#15424 : the matrix IS invertible.
+Fri Apr 22 10:37:58 2022
+ Z: Worker PID#15375 responding to Client PID#15427 : the matrix IS invertible.
+Fri Apr 22 10:38:33 2022
+ Worker PID#15372 is handling Client PID#15582, matrix size 5x5, pool busy 1 / 2
+Fri Apr 22 10:38:33 2022
+ Worker PID#15373 is handling Client PID#15583, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:38:33 2022
+ Forwarding request of Client PID#15584 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:38:33 2022
+ Z: Worker PID#15374 is handling Client PID#15584, matrix size 3x3, pool busy 1 / 2
+Fri Apr 22 10:38:33 2022
+ Forwarding request of Client PID#15586 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:38:33 2022
+ Z: Worker PID#15375 is handling Client PID#15586, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:38:33 2022
+ Forwarding request of Client PID#15587 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:38:33 2022
+ Forwarding request of Client PID#15585 to ServerZ, matrix size 5x5, pool busy 2 / 2
+Fri Apr 22 10:38:34 2022
+ Worker PID#15372 responding to Client PID#15582 : the matrix IS invertible.
+Fri Apr 22 10:38:34 2022
+ Worker PID#15373 responding to Client PID#15583 : the matrix IS invertible.
+Fri Apr 22 10:38:34 2022
+ Z: Worker PID#15374 responding to Client PID#15584 : the matrix IS invertible.
+Fri Apr 22 10:38:34 2022
+ Z: Worker PID#15374 is handling Client PID#15587, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:38:34 2022
+ Z: Worker PID#15375 responding to Client PID#15586 : the matrix IS invertible.
+Fri Apr 22 10:38:34 2022
+ Z: Worker PID#15375 is handling Client PID#15585, matrix size 5x5, pool busy 2 / 2
+Fri Apr 22 10:38:35 2022
+ Z: Worker PID#15374 responding to Client PID#15587 : the matrix IS invertible.
+Fri Apr 22 10:38:35 2022
+ Z: Worker PID#15375 responding to Client PID#15585 : the matrix IS invertible.
+Fri Apr 22 10:39:00 2022
+ Worker PID#15372 is handling Client PID#15768, matrix size 5x5, pool busy 1 / 2
+Fri Apr 22 10:39:00 2022
+ Worker PID#15373 is handling Client PID#15770, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:39:00 2022
+ Forwarding request of Client PID#15769 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:39:00 2022
+ Z: Worker PID#15374 is handling Client PID#15769, matrix size 3x3, pool busy 1 / 2
+Fri Apr 22 10:39:00 2022
+ Forwarding request of Client PID#15772 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:39:00 2022
+ Z: Worker PID#15375 is handling Client PID#15772, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:39:00 2022
+ Forwarding request of Client PID#15771 to ServerZ, matrix size 5x5, pool busy 2 / 2
+Fri Apr 22 10:39:00 2022
+ Forwarding request of Client PID#15773 to ServerZ, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:39:01 2022
+ Worker PID#15372 responding to Client PID#15768 : the matrix IS invertible.
+Fri Apr 22 10:39:01 2022
+ Worker PID#15373 responding to Client PID#15770 : the matrix IS invertible.
+Fri Apr 22 10:39:01 2022
+ Z: Worker PID#15374 responding to Client PID#15769 : the matrix IS invertible.
+Fri Apr 22 10:39:01 2022
+ Z: Worker PID#15374 is handling Client PID#15771, matrix size 5x5, pool busy 2 / 2
+Fri Apr 22 10:39:01 2022
+ Z: Worker PID#15375 responding to Client PID#15772 : the matrix IS invertible.
+Fri Apr 22 10:39:01 2022
+ Z: Worker PID#15375 is handling Client PID#15773, matrix size 3x3, pool busy 2 / 2
+Fri Apr 22 10:39:02 2022
+ Z: Worker PID#15374 responding to Client PID#15771 : the matrix IS invertible.
+Fri Apr 22 10:39:02 2022
+ Z: Worker PID#15375 responding to Client PID#15773 : the matrix IS invertible.
+Fri Apr 22 10:39:35 2022
+ SIGINT received, terminating Z and exiting server Y.Total requests handled : 17, 17 invertible, 0 not .12 requests were forwarded.
+Fri Apr 22 10:39:35 2022
+ Z: SIGINT received, exiting Z .Total requests handled : 12, 12 invertible, 0 not .

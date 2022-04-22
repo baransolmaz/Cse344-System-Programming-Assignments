@@ -1,0 +1,64 @@
+Mon Apr 18 05:46:53 2022
+ Server Y (log.txt, p = 1, t= 4) started. ID: 61967
+Mon Apr 18 05:46:53 2022
+ Instantiated Server Z.
+Mon Apr 18 05:46:53 2022
+ Z: Server Z (log.txt, p = 2, t= 4) started. ID: 61968
+Mon Apr 18 05:47:06 2022
+ Worker PID#61969 is handling Client PID#62067, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:07 2022
+ Forwarding request of Client PID#62076 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:07 2022
+ Z: Worker PID#61970 is handling Client PID#62076, matrix size 3x3, pool busy 1 / 2
+Mon Apr 18 05:47:08 2022
+ Forwarding request of Client PID#62081 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:08 2022
+ Z: Worker PID#61971 is handling Client PID#62081, matrix size 3x3, pool busy 2 / 2
+Mon Apr 18 05:47:09 2022
+ Forwarding request of Client PID#62087 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:10 2022
+ Worker PID#61969 responding to Client PID#62067 : the matrix IS invertible.
+Mon Apr 18 05:47:10 2022
+ Worker PID#61969 is handling Client PID#62107, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:11 2022
+ Z: Worker PID#61970 responding to Client PID#62076 : the matrix IS NOT invertible.
+Mon Apr 18 05:47:11 2022
+ Z: Worker PID#61970 is handling Client PID#62087, matrix size 3x3, pool busy 2 / 2
+Mon Apr 18 05:47:12 2022
+ Forwarding request of Client PID#62117 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:12 2022
+ Z: Worker PID#61971 responding to Client PID#62081 : the matrix IS invertible.
+Mon Apr 18 05:47:12 2022
+ Z: Worker PID#61971 is handling Client PID#62117, matrix size 3x3, pool busy 2 / 2
+Mon Apr 18 05:47:13 2022
+ Forwarding request of Client PID#62125 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:14 2022
+ Worker PID#61969 responding to Client PID#62107 : the matrix IS invertible.
+Mon Apr 18 05:47:14 2022
+ Worker PID#61969 is handling Client PID#62133, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:15 2022
+ Z: Worker PID#61970 responding to Client PID#62087 : the matrix IS NOT invertible.
+Mon Apr 18 05:47:15 2022
+ Z: Worker PID#61970 is handling Client PID#62125, matrix size 3x3, pool busy 2 / 2
+Mon Apr 18 05:47:16 2022
+ Z: Worker PID#61971 responding to Client PID#62117 : the matrix IS invertible.
+Mon Apr 18 05:47:16 2022
+ Forwarding request of Client PID#62154 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:16 2022
+ Z: Worker PID#61971 is handling Client PID#62154, matrix size 3x3, pool busy 2 / 2
+Mon Apr 18 05:47:18 2022
+ Forwarding request of Client PID#62159 to ServerZ, matrix size 3x3, pool busy 1 / 1
+Mon Apr 18 05:47:18 2022
+ Worker PID#61969 responding to Client PID#62133 : the matrix IS invertible.
+Mon Apr 18 05:47:19 2022
+ Z: Worker PID#61970 responding to Client PID#62125 : the matrix IS NOT invertible.
+Mon Apr 18 05:47:19 2022
+ Z: Worker PID#61970 is handling Client PID#62159, matrix size 3x3, pool busy 2 / 2
+Mon Apr 18 05:47:20 2022
+ Z: Worker PID#61971 responding to Client PID#62154 : the matrix IS NOT invertible.
+Mon Apr 18 05:47:23 2022
+ Z: Worker PID#61970 responding to Client PID#62159 : the matrix IS invertible.
+Mon Apr 18 05:47:52 2022
+ SIGINT received, terminating Z and exiting server Y.Total requests handled : 10, 6 invertible, 4 not .7 requests were forwarded.
+Mon Apr 18 05:47:52 2022
+ Z: SIGINT received, exiting Z .Total requests handled : 7, 3 invertible, 4 not .
